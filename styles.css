@@ -26,6 +26,7 @@ body {
   font-weight: bold;
   position: absolute;
   transition: opacity 0.5s ease;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Soft shadow */
 }
 
 
@@ -81,7 +82,7 @@ body {
   line-height: 1.4;
   white-space: pre-line; /* Keeps text formatting */
   font-family: "Lobster", serif;
-  color: #ffe4e1  ; /* or any color you want */
+  color:black  ; /* or any color you want */
   text-align: center;
   font-weight: 400;
 }
